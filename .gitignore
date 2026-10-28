@@ -1,0 +1,19 @@
+# deps
+node_modules/
+# build
+dist/
+.wrangler/
+# env / secrets
+.env
+.env.*
+.dev.vars
+# logs
+logs/
+*.log
+npm-debug.log*
+# misc
+.DS_Store
+.vscode/
+.idea/
+*.tar.gz
+*.zip
